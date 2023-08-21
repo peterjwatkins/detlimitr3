@@ -1,6 +1,6 @@
 # detlimitr3
 
-The **detlimitr** (estimating *det*ection *limit*s using *R* with S*3*) package contains functions for use with calibration data in analytical chemistry. In this package, the detection limit can be calculated for either linear, quadratic or power regression.
+The **detlimitr3** (estimating *det*ection *limit*s using *R* with S*3*) package contains functions for use with calibration data in analytical chemistry. In this package, the detection limit can be calculated for either linear, quadratic or power regression.
 
 
 ## Installation
