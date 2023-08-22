@@ -29,7 +29,7 @@ m2 <- det.limit(chloromethane$Concentration, chloromethane$Response,
 #' plot(m2, residplot = TRUE)
 ```
 
-Further information and examples can be found in 'detlimitr.Rmd'
+Further information and examples can be found in '/docs/detlimitr.Rmd'
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
