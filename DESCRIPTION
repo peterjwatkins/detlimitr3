@@ -1,0 +1,21 @@
+Package: detlimitr3
+Title: Estimation of detection limits using R using S3
+Version: 0.0.1.00
+Author: Peter Watkins   
+Maintainer: Peter Watkins <Peter.Watkins@csiro.au>
+Description: A set of functions for estimating detection limits of calibration data, using S3.
+    The package can be used for linear, quadratic or power regression. In the case of
+    linear regression, the detection limits are estimated using three approaches; i) Miller & Miller, ii 
+    Vogelgesang & Hädrich, and iii) Hubert & Vos (by iteration).
+Imports:
+    dplyr, 
+    ggplot2, 
+    ggtrendline,
+    minpack.lm,
+    tibble
+Suggests:
+    testthat
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
